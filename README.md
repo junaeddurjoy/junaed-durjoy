@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nur Adnan Chowdhury</h1>
-<h3 align="center">Web Developer, Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm Junaed Hossain</h1>
+<h3 align="center">Web Developer, MERN Stack</h3>
 
 
-![Web Developer, Competitive Programmer]
+![Web Developer, MERN Stack]
 
 
 - 🔭 I’m currently working on **Upwork**
