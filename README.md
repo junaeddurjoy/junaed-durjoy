@@ -20,7 +20,7 @@ skills while making a contribution to the company.
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- add -->
-
+<p><img src="html-5.png"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaeddurjoy&show_icons=true&locale=en&layout=compact" alt="junaeddurjoy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaeddurjoy&show_icons=true&locale=en" alt="junaeddurjoy" /></p>
