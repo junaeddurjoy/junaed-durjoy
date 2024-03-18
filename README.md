@@ -8,17 +8,14 @@
 responsible career opportunity to fully utilize my educational knowledge and
 skills while making a contribution to the company.
 
-- 👨‍💻 All of my projects are available at [https://junaeddurjoy.github.io/my-portfolio/](https://junaeddurjoy.github.io/my-portfolio/)
+- 👨‍💻 My portfolio: [https://junaeddurjoy.github.io/my-portfolio/](https://junaeddurjoy.github.io/my-portfolio/)
 
 - 📫 How to reach me **junaed.durjoy@gmail.com**
-
-- ⚡ Fun fact **I think I am Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/junaed909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaed909" height="30" width="40" /></a>
 <a href="https://facebook.com/junaed.durjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junaed.durjoy" height="30" width="40" /></a>
-<a href="https://twitter.com/junaeddurjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaeddurjoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
