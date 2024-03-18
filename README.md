@@ -1,16 +1,14 @@
 <img src="github.png">
 <h1 align="center">Hi 👋, I'm Junaed Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaeddurjoy&label=Profile%20views&color=0e75b6&style=flat" alt="junaeddurjoy" /> </p>
 
-- 🔭 I’m currently working on [Hostel Hub](https://hostel-hub-b3ddb.web.app/)
-
-- 🌱 I’m currently learning **Machine Learning**
+- 💬 I consider myself a responsible and orderly person. I am looking forward to a
+responsible career opportunity to fully utilize my educational knowledge and
+skills while making a contribution to the company.
 
 - 👨‍💻 All of my projects are available at [https://junaeddurjoy.github.io/my-portfolio/](https://junaeddurjoy.github.io/my-portfolio/)
-
-- 💬 Ask me about **react, nodejs , expressjs**
 
 - 📫 How to reach me **junaed.durjoy@gmail.com**
 
@@ -18,10 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/junaeddurjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaeddurjoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/junaed909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaed909" height="30" width="40" /></a>
-<a href="https://fb.com/junaed.durjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junaed.durjoy" height="30" width="40" /></a>
-<a href="https://instagram.com/junaed.durjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junaed.durjoy" height="30" width="40" /></a>
+<a href="https://facebook.com/junaed.durjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junaed.durjoy" height="30" width="40" /></a>
+<a href="https://twitter.com/junaeddurjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaeddurjoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
